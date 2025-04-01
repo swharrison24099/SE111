@@ -1,0 +1,14 @@
+div {
+    border: 5px solid blue; padding: 10px;
+    height: 96vh;
+}  
+h1 {
+    border: 5px solid hotpink; padding: 10px;
+    font-family:Arial, Helvetica, sans-serif;
+    color: red
+}
+p {
+    border: 5px solid green; padding: 10px;
+    font-family:Arial, Helvetica, sans-serif;
+    height: 85vh;
+}
